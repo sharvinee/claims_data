@@ -29,9 +29,6 @@ streamlit run data_analysis/dashboard.py
 Open the local URL shown in the terminal (usually `http://localhost:8501`).
 
 ## Dashboard Preview
-
-Add your screenshot at `assets/dashboard.png`, then it will render below:
-
 ![Claims Dashboard Preview](assets/dashboard.png)
 
 ## Dashboard Features
