@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "/workspaces/claims_data/venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.extraPaths": [
+    "/workspaces/claims_data/venv/lib/python3.12/site-packages"
+  ]
+}
