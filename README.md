@@ -28,6 +28,12 @@ streamlit run data_analysis/dashboard.py
 
 Open the local URL shown in the terminal (usually `http://localhost:8501`).
 
+## Dashboard Preview
+
+Add your screenshot at `assets/dashboard.png`, then it will render below:
+
+![Claims Dashboard Preview](assets/dashboard.png)
+
 ## Dashboard Features
 
 - Sidebar filters:
@@ -40,8 +46,9 @@ Open the local URL shown in the terminal (usually `http://localhost:8501`).
 - Visuals:
 	- Claim Status Distribution
 	- Denied Claims by Insurance Type
+	- Diagnosis Codes with Highest Claims
 	- Billed vs Paid Amount by Insurance Type
 - Tables:
 	- Denial Rate by Procedure Code (`Denied Count`, `Total Claims`, `Denial Rate (%)`)
 	- Provider-Level Claims Summary (`Number_of_Claims`, status breakdown, `Total_Billed`, `Total_Paid`)
-	- Filtered Data Preview
+	- All Data
